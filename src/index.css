@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.H2{
+  padding: 10px 0px 10px 0px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  /* text-align: center; */
+}
+.question-text{
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.answer-section button{
+  text-align: center;
+color: rgb(26, 42, 42);
+font-size: 20px;
+/* display: flex;
+justify-content: center; */
+margin-bottom: 15px;
+
+}
+button{
+  margin: 10px;
+  
+}
